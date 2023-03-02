@@ -5,11 +5,18 @@
     font-family: 'Cinzel', serif;
 }
 
-body{
+body {
     background-image: url("./images/video-games-hollow-knight-video-game-art-fantasy-art-hd-wallpaper-b9d0c81d31cafd3b2637f8df30f1969d.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.page2 {
+    background-image: url("./images/Page2_BG.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 img {
     height: 20rem;
     width: auto;
