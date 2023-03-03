@@ -102,6 +102,7 @@ p {
     margin: 40px 0px;
     font-size: 2.5rem;
     text-decoration: underline;
+    font-weight: bold;
 }
 
 .content h2 {
